@@ -1,0 +1,3 @@
+a = open('c:/users/pavan kumar/AppData/Local/program/python/python39/studentsdata.txt'.'r')
+b = a.readlines()
+print(b[0])
